@@ -11,7 +11,7 @@ x2 = (-b - d ** 0.5)/(2*a)
 # output of solutions
 if d > 0:
     print("x1 = ", x1, "; x2= ", x2)
-if d == 0:
+elif d == 0:
     print("x1 = ", x1)
 # legal clause in case we crashed someone's brain
 else:
