@@ -19,5 +19,5 @@ else:
           "there is a secret solution to this equation represented as complex numbers.\n",
           "However, if you use this app to solve your school homework, you better indicate there is no solution!\n",
           "We are not liable for any unintended consequences... So here we go: \n",
-          "x1= ", x1, "; x2= ", x2, "\n"
-          "If you enjoyed using this app, you may want to donate 1$ (card N 51687559395987161)")
+          "x1= ", x1, "; x2= ", x2, "\n")
+print("If you enjoyed using this app, you may want to donate 1$ (card N 51687559395987161)")
